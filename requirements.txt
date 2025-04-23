@@ -1,4 +1,4 @@
-git+https://github.com/NullReaper/aiotdlib.git
+git+https://github.com/vanyasem/aiotdlib.git
 fastapi
 uvicorn
 openai
