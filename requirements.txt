@@ -1,5 +1,5 @@
+git+https://github.com/NullReaper/aiotdlib.git
 fastapi
 uvicorn
-aiotdlib
 openai
 python-dotenv
