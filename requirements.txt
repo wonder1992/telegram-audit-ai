@@ -1,4 +1,3 @@
-git+https://github.com/vanyasem/aiotdlib.git
 fastapi
 uvicorn
 openai
