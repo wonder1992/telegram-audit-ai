@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+aiotdlib
+openai
+python-dotenv
